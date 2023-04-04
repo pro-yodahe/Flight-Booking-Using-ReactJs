@@ -8,19 +8,20 @@ import Info from './Components/Info/Info.jsx'
 import Travel from './Components/Travelers/Travelers.jsx'
 import Subscribers from './Components/Subscribers/Subscribers.jsx'
 import Footer from './Components/Footer/Footer.jsx'
+
 import './main.css'
 const App = () => {
   return (
     <div>
       <Navbar />
       <Home />
-      {/* <Search />
+      <Search />
       <Support />
       <Info />
       <Lounge />
       <Travel />
       <Subscribers />
-      <Footer /> */}
+      <Footer />
     </div>
   )
 }
