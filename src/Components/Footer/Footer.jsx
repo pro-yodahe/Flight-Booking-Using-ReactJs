@@ -99,7 +99,7 @@ const Footer = () => {
       </div>
 
       <div className="copyRightDiv">
-        <p>Courtesy Design | Developed by <a href="https://github.com/NguyenVanHuy1405" target='_blank'>Nguyen Van Huy</a></p>
+        <p>Courtesy Design | Developed by <a href="https://github.com/pro-yodahe" target='_blank'>Yodahe</a></p>
       </div>
     </div>
   )
